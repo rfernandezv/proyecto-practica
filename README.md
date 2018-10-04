@@ -1,9 +1,7 @@
 # Proyecto - Patterns
 Richar Marvin Fernández Vílchez
 
-#http://localhost:8000/api/customers/
---------------------------------------------
-#http://localhost:8000/api/project/1
+#http://localhost:8000/api/customers
 --------------------------------------------
 #PostMan
 #
@@ -23,3 +21,9 @@ Richar Marvin Fernández Vílchez
 	"password" : "password13"
 }
 
+
+--------------------------------------------
+#http://localhost:8000/api/project/1
+--------------------------------------------
+#PostMan
+#
