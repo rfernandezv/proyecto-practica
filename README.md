@@ -2,6 +2,7 @@
 Richar Marvin Fernández Vílchez
 
 #http://localhost:8000/api/customers/
+#http://localhost:8000/api/project/1
 --------------------------------------------
 #PostMan
 #
